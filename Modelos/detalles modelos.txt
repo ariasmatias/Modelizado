@@ -1,0 +1,99 @@
+vehiculos:
+todo default
+
+vehiculos_con_weights:
+class_weights = {
+    0: 0.8,   # Airplane
+    1: 1.0,   # Ambulance
+    2: 1.0,   # Bicycle
+    3: 1.0,   # Boat
+    4: 1.0,   # Bus
+    5: 1.0,   # Car
+    6: 1.0,   # Fire Truck
+    7: 1.0,   # Helicopter
+    8: 1.0,   # Hovercraft
+    9: 0.8,   # Jet Ski
+    10: 1.0,  # Kayak
+    11: 0.8,  # Motorcycle
+    12: 1.0,  # Rickshaw
+    13: 1.0,  # Scooter
+    14: 1.0,  # Segway
+    15: 1.0,  # Skateboard
+    16: 1.0,  # Tractor
+    17: 1.0,  # Truck
+    18: 1.0   # Unicycle
+}
+
+
+vehiculos_con_weights_learning_rate0005:
+class_weights = {
+    0: 0.8,   # Airplane
+    1: 1.0,   # Ambulance
+    2: 1.0,   # Bicycle
+    3: 1.0,   # Boat
+    4: 1.0,   # Bus
+    5: 1.0,   # Car
+    6: 1.0,   # Fire Truck
+    7: 1.0,   # Helicopter
+    8: 1.0,   # Hovercraft
+    9: 0.8,   # Jet Ski
+    10: 1.0,  # Kayak
+    11: 0.8,  # Motorcycle
+    12: 1.0,  # Rickshaw
+    13: 1.0,  # Scooter
+    14: 1.0,  # Segway
+    15: 1.0,  # Skateboard
+    16: 1.0,  # Tractor
+    17: 1.0,  # Truck
+    18: 1.0   # Unicycle
+}
+low_lr = 0.0005
+
+vehiculos_con_weights_learning_rate0005_final(no_final):
+class_weights = {
+    0: 0.8,   # Airplane
+    1: 1.0,   # Ambulance
+    2: 1.0,   # Bicycle
+    3: 1.0,   # Boat
+    4: 1.0,   # Bus
+    5: 1.0,   # Car
+    6: 1.0,   # Fire Truck
+    7: 1.0,   # Helicopter
+    8: 1.0,   # Hovercraft
+    9: 0.8,   # Jet Ski
+    10: 1.0,  # Kayak
+    11: 0.8,  # Motorcycle
+    12: 1.0,  # Rickshaw
+    13: 1.0,  # Scooter
+    14: 1.0,  # Segway
+    15: 1.0,  # Skateboard
+    16: 1.0,  # Tractor
+    17: 1.3,  # Truck
+    18: 1.0   # Unicycle
+}
+low_lr = 0.0005
+
+vehiculos_opening_latino(HD):
+class_weights = {
+    0: 0.8,   # Airplane
+    1: 1.0,   # Ambulance
+    2: 1.0,   # Bicycle
+    3: 1.0,   # Boat
+    4: 1.0,   # Bus
+    5: 1.0,   # Car
+    6: 1.0,   # Fire Truck
+    7: 1.0,   # Helicopter
+    8: 1.0,   # Hovercraft
+    9: 0.8,   # Jet Ski
+    10: 1.0,  # Kayak
+    11: 0.8,  # Motorcycle
+    12: 1.0,  # Rickshaw
+    13: 1.0,  # Scooter
+    14: 1.0,  # Segway
+    15: 1.0,  # Skateboard
+    16: 1.0,  # Tractor
+    17: 1.0,  # Truck
+    18: 1.0   # Unicycle
+}
+low_lr = 0.0005
+#se limpiaron las carpetas de val y test de truck, y se agregaron 'mejores' imagenes

@@ -1,0 +1,114 @@
+Recall Analysis for 'truck' Class:
+
+Filename: truck\test_truck_1.jpg
+Predicted Class: van
+Top Probabilities:
+  van: 98.44%
+  truck: 0.51%
+  rickshaw: 0.49%
+  fire_truck: 0.15%
+
+Filename: truck\test_truck_10.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 91.43%
+  rickshaw: 5.07%
+  bus: 1.12%
+  van: 0.83%
+
+Filename: truck\test_truck_11.jpg
+Predicted Class: bus
+Top Probabilities:
+  bus: 89.02%
+  rickshaw: 10.59%
+  van: 0.14%
+  truck: 0.09%
+
+Filename: truck\test_truck_12.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 97.85%
+  fire_truck: 1.12%
+  rickshaw: 0.45%
+  tractor: 0.23%
+
+Filename: truck\test_truck_13.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 79.78%
+  bus: 17.41%
+  skateboard: 0.88%
+  airplane: 0.81%
+
+Filename: truck\test_truck_14.jpg
+Predicted Class: fire_truck
+Top Probabilities:
+  fire_truck: 96.78%
+  truck: 1.93%
+  ambulance: 0.74%
+  tractor: 0.14%
+
+Filename: truck\test_truck_2.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 98.41%
+  van: 0.68%
+  rickshaw: 0.41%
+  fire_truck: 0.21%
+
+Filename: truck\test_truck_3.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 99.67%
+  fire_truck: 0.13%
+  tractor: 0.10%
+  rickshaw: 0.04%
+
+Filename: truck\test_truck_4.jpg
+Predicted Class: van
+Top Probabilities:
+  van: 95.04%
+  truck: 1.42%
+  fire_truck: 0.80%
+  tractor: 0.59%
+
+Filename: truck\test_truck_5.jpg
+Predicted Class: van
+Top Probabilities:
+  van: 81.78%
+  rickshaw: 3.43%
+  fire_truck: 3.08%
+  tractor: 2.12%
+
+Filename: truck\test_truck_6.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 99.61%
+  rickshaw: 0.10%
+  ambulance: 0.06%
+  bus: 0.04%
+
+Filename: truck\test_truck_7.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 87.41%
+  fire_truck: 5.03%
+  rickshaw: 3.75%
+  tractor: 2.80%
+
+Filename: truck\test_truck_8.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 99.88%
+  rickshaw: 0.02%
+  fire_truck: 0.02%
+  van: 0.02%
+
+Filename: truck\test_truck_9.jpg
+Predicted Class: truck
+Top Probabilities:
+  truck: 80.65%
+  fire_truck: 15.67%
+  rickshaw: 1.86%
+  van: 0.61%
+

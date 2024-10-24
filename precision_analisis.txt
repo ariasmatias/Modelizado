@@ -1,0 +1,170 @@
+Detailed Predictions for 'airplane' Class:
+
+Filename: airplane\test_airplane_1.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.956%
+  helicopter: 0.014%
+  skateboard: 0.010%
+  ambulance: 0.003%
+
+Filename: airplane\test_airplane_10.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.960%
+  helicopter: 0.015%
+  skateboard: 0.011%
+  bus: 0.002%
+
+Filename: airplane\test_airplane_11.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.899%
+  skateboard: 0.021%
+  kayak: 0.017%
+  ambulance: 0.014%
+
+Filename: airplane\test_airplane_12.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 97.664%
+  skateboard: 0.577%
+  bus: 0.509%
+  boat: 0.244%
+
+Filename: airplane\test_airplane_13.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.949%
+  helicopter: 0.022%
+  skateboard: 0.013%
+  kayak: 0.003%
+
+Filename: airplane\test_airplane_14.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.802%
+  helicopter: 0.110%
+  ambulance: 0.015%
+  bus: 0.013%
+
+Filename: airplane\test_airplane_15.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.814%
+  helicopter: 0.180%
+  skateboard: 0.002%
+  ambulance: 0.001%
+
+Filename: airplane\test_airplane_16.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.879%
+  helicopter: 0.064%
+  skateboard: 0.019%
+  kayak: 0.011%
+
+Filename: airplane\test_airplane_2.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 76.333%
+  skateboard: 21.799%
+  truck: 0.471%
+  segway: 0.412%
+
+Filename: airplane\test_airplane_3.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.262%
+  helicopter: 0.630%
+  skateboard: 0.037%
+  ambulance: 0.024%
+
+Filename: airplane\test_airplane_4.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 61.217%
+  helicopter: 37.538%
+  kayak: 0.356%
+  hovercraft: 0.206%
+
+Filename: airplane\test_airplane_5.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.926%
+  helicopter: 0.052%
+  skateboard: 0.009%
+  bus: 0.003%
+
+Filename: airplane\test_airplane_6.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.933%
+  helicopter: 0.048%
+  skateboard: 0.007%
+  bus: 0.003%
+
+Filename: airplane\test_airplane_7.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.864%
+  skateboard: 0.041%
+  truck: 0.016%
+  ambulance: 0.016%
+
+Filename: airplane\test_airplane_8.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 99.930%
+  helicopter: 0.024%
+  skateboard: 0.014%
+  ambulance: 0.013%
+
+Filename: airplane\test_airplane_9.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 74.859%
+  truck: 15.821%
+  bus: 2.072%
+  skateboard: 1.336%
+
+Filename: bus\test_bus_20.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 34.376%
+  truck: 33.067%
+  kayak: 6.287%
+  bus: 5.628%
+
+Filename: helicopter\test_helicopter_17.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 77.488%
+  helicopter: 22.054%
+  jet_ski: 0.259%
+  kayak: 0.069%
+
+Filename: helicopter\test_helicopter_24.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 64.077%
+  helicopter: 24.490%
+  skateboard: 5.531%
+  kayak: 1.474%
+
+Filename: helicopter\test_helicopter_3.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 50.554%
+  helicopter: 49.288%
+  skateboard: 0.089%
+  kayak: 0.028%
+
+Filename: helicopter\test_helicopter_9.jpg
+Predicted Class: airplane
+Top Probabilities:
+  airplane: 97.903%
+  helicopter: 1.536%
+  skateboard: 0.314%
+  kayak: 0.170%
+
