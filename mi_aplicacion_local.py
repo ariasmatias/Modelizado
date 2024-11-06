@@ -9,14 +9,14 @@ import tensorflow as tf
 tf.get_logger().setLevel('ERROR')
 
 # Cargar el modelo
-model = load_model(r'C:/Users/diego/Desktop/TSCDIA/Modelizado de Sistemas de IA/TP1/Modelizado/Modelos/vehiculos_11.keras')
+model = load_model(r'C:/Users/diego/Desktop/TSCDIA/Modelizado de Sistemas de IA/TP1/Modelizado/Modelos/vehiculos_16.keras')
 
 # Diccionario de etiquetas
 label_list = {
-    0: 'avión', 1: 'ambulancia', 2: 'bicicleta', 3: 'barco', 4: 'autobús', 
+    0: 'avión', 1: 'ambulancia', 2: 'bicicleta', 3: 'bote', 4: 'autobús', 
     5: 'coche', 6: 'camión de bomberos', 7: 'helicóptero', 8: 'hovercraft', 9: 'moto de agua', 
     10: 'kayak', 11: 'motocicleta', 12: 'rickshaw', 13: 'scooter', 14: 'segway', 
-    15: 'monopatín', 16: 'tractor', 17: 'tren', 18: 'camión', 19: 'uniciclo', 20: 'furgoneta'
+    15: 'barco', 16: 'patineta', 17: 'tractor', 18: 'tren', 19: 'camión', 20: 'uniciclo', 21: 'furgoneta'
 }
 
 def predict_image(file_path):
