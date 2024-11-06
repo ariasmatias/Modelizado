@@ -184,3 +184,71 @@ early_stopping = EarlyStopping(monitor='val_loss', patience=3, restore_best_weig
 
 callbacks=[early_stopping, reduce_lr])
 ultima epoca: 13
+
+vehiculos 13:
+agregar mas imagenes de aviones
+limpieza de jet ski 
+4 epocas con learning rate 0.0005, 3 más con learning rate de 0.0001
+
+vehiculos 14:
+reforzar uniciclo
+nueva categoria: ship
+10 epocas: primeras 4 con lr de 0.0005, 3 con lr de 0.0001, 3 con lr de 0.00005
+
+
+vehiculos 15
+class_weights = {
+    0: 1.0,   # Airplane
+    1: 1.0,   # Ambulance
+    2: 1.1,   # Bicycle
+    3: 1.0,   # Boat
+    4: 1.0,   # Bus
+    5: 1.0,   # Car
+    6: 1.0,   # Fire Truck
+    7: 1.0,   # Helicopter
+    8: 1.2,   # Hovercraft
+    9: 1.0,   # Jet Ski
+    10: 1.0,  # Kayak
+    11: 1.0,  # Motorcycle
+    12: 1.0,  # Rickshaw
+    13: 1.0,  # Scooter
+    14: 1.0,  # Segway
+    15: 1.0,  # Ship
+    16: 1.0,  # Skateboard
+    17: 1.0,  # Tractor
+    18: 1.0,  # Train
+    19: 1.0,  # Truck
+    20: 1.0,  # Unicycle
+    21: 1.0   # Van
+}
+reforzar hovercraft y un poco bicicletas
+8 epocas: primeras 4 con lr de 0.0005, 2 con lr de 0.0001, 2 con lr de 0.00005
+
+vehiculos 16
+class_weights = {
+    0: 1.0,   # Airplane
+    1: 1.0,   # Ambulance
+    2: 1.1,   # Bicycle
+    3: 1.0,   # Boat
+    4: 1.0,   # Bus
+    5: 1.0,   # Car
+    6: 1.0,   # Fire Truck
+    7: 1.0,   # Helicopter
+    8: 1.1,   # Hovercraft
+    9: 1.0,   # Jet Ski
+    10: 1.0,  # Kayak
+    11: 1.0,  # Motorcycle
+    12: 1.0,  # Rickshaw
+    13: 1.0,  # Scooter
+    14: 1.0,  # Segway
+    15: 1.0,  # Ship
+    16: 1.0,  # Skateboard
+    17: 1.0,  # Tractor
+    18: 1.0,  # Train
+    19: 1.0,  # Truck
+    20: 1.0,  # Unicycle
+    21: 1.0   # Van
+}
+
+9 epocas: primeras 5 con lr de 0.0005, 2 con lr de 0.0001, 2 con lr de 0.00005
+
